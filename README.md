@@ -1,6 +1,12 @@
-#NASP
+A set of NLP functionalities in Java Lang
+- Lemmar
+- Morphotagger
+- StopWords list and identical
+- Tokenizer
+- Translate
+- Web Search
+- WordNet Synsets Search
 
-A software to assist the process of manual annotation of meaning in texts and collections of texts from Portuguese.
 
 #Dependencies
 - JAWS: Java API for WordNet access <http://lyle.smu.edu/~tspell/jaws/index.html>
