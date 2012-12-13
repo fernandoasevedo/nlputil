@@ -1,0 +1,4 @@
+wordnet_dir: <WordNet directorie>/dict
+wordreference_api:
+wordreference_lang:
+bing_api:
