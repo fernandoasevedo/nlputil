@@ -16,10 +16,10 @@ A set of NLP functionalities in Java Lang
 
 #Necessary for...
 
--BingSearch: Account in Window Azure <https://datamarket.azure.com>
--BingTranslate: Account in Window Azure <https://datamarket.azure.com> 
--WordNet use: Download WordNet <http://wordnet.princeton.edu/wordnet/download/>
--WordReference Translate: Development Account in WordReference API <http://www.wordreference.com/docs/APIregistration.aspx>
+- BingSearch: Account in Window Azure <https://datamarket.azure.com>
+- BingTranslate: Account in Window Azure <https://datamarket.azure.com> 
+- WordNet use: Download WordNet <http://wordnet.princeton.edu/wordnet/download/>
+- WordReference Translate: Development Account in WordReference API <http://www.wordreference.com/docs/APIregistration.aspx>
 
 
 This information can be stored in the config file.
